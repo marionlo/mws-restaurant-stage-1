@@ -2,12 +2,12 @@
 ---
 
 ## Installation
-Fork and close this repository.####
-Open the root folder of the repository in a terminal####
-From inside the new directory, launch a local client server using Python from your terminal:####
-For Python 2.x: python -m SimpleHTTPServer 8000####
-For Python 3.x: python3 -m http.server 8000####
-Visit http://localhost:8000
+####Fork and close this repository.####
+####Open the root folder of the repository in a terminal####
+####From inside the new directory, launch a local client server using Python from your terminal:####
+####For Python 2.x: python -m SimpleHTTPServer 8000####
+####For Python 3.x: python3 -m http.server 8000####
+####Visit http://localhost:8000
 
 
 ## Leaflet.js and Mapbox:
