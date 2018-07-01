@@ -268,6 +268,23 @@ nav h1 a {
 }
 #reviews-list li p {
   margin: 0 0 10px;
+	font-weight:bold;
+}
+
+#reviews-list li p:first-child {
+background-color: #333;
+ color: #ddd;
+ border: 2px solid #333;
+ border-radius: 15px 40px 30px;
+ padding-left:20px;
+ display:flex;
+ min-width:200px;
+ max-width:300px;
+}
+
+#reviews-list li p:last-child {
+  margin: 0 0 10px;
+	font-weight: normal;
 }
 #restaurant-hours td {
   color: #666;
