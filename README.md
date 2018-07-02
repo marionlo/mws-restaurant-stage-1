@@ -2,7 +2,7 @@
 ---
 
 ## Installation
-Fork and close this repository.  
+Fork and clone this repository.  
 Open the root folder of the repository in a terminal  
 From inside the new directory, launch a local client server using Python from your terminal:  
 For Python 2.x: python -m SimpleHTTPServer 8000  
